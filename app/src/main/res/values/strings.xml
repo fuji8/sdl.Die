@@ -6,4 +6,7 @@
     <string name="seekbar_z_label">Z</string>
     <string name="menu_cube_label">Cube</string>
     <string name="menu_pyramid_label">Pyramid</string>
+
+    <string name="toast_no_sensor_manager">No sensor manager available</string>
+    <string name="toast_no_gyroscope">No gyroscope available</string>
 </resources>
